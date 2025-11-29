@@ -1,0 +1,15 @@
+body {
+  font-family: 'Inter', system-ui, -apple-system, Segoe UI, sans-serif;
+}
+
+#letter-grid .letter-card {
+  min-width: 120px;
+}
+
+#formatted-time {
+  letter-spacing: 1px;
+}
+
+.badge {
+  letter-spacing: 0.5px;
+}
